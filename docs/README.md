@@ -1,6 +1,3 @@
----
----
-
 # phpSmug Documentation
 
 - [Requirements & Installation](installation.md)
