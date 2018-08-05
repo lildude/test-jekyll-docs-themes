@@ -1,5 +1,6 @@
 ---
 title: phpSmug
+homepage: true
 ---
 
 # [Requirements & Installation](installation.md)
