@@ -6,7 +6,27 @@ layout: page
 
 # phpSmug 
 
-# [Requirements & Installation](installation.md)
+{% capture my_include %}{% include installation.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
+{% capture my_include %}{% include usage.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
+{% capture my_include %}{% include authentication.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
+{% capture my_include %}{% include private-images.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
+{% capture my_include %}{% include uploading.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
+{% capture my_include %}{% include other.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
+---
+
+# Requirements & Installation](installation.md)
 # [Usage](usage.md)
   - Basic Usage
   - More In-depth Usage Details
