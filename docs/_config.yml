@@ -12,3 +12,12 @@ ui:
     color1: "#080331"
     color2: "#673051"
     trianglify: true
+links:
+  header:
+    - title: GitHub
+      url: https://github.com/allejo/jekyll-docs-theme
+  footer:
+    - title: GitHub
+      url: https://github.com/allejo/jekyll-docs-theme
+    - title: Issues
+      url: https://github.com/allejo/jekyll-docs-theme/issues?state=open
