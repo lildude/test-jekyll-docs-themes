@@ -1,5 +1,5 @@
 ---
-title: phpSmug
+homepage: true
 layout: page
 ---
 
