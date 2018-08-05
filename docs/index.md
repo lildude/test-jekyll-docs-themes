@@ -6,23 +6,17 @@ layout: page
 
 # phpSmug 
 
-{% capture my_include %}{% include installation.md %}{% endcapture %}
-{{ my_include | markdownify }}
+{% include_relative installation.md %}
 
-{% capture my_include %}{% include usage.md %}{% endcapture %}
-{{ my_include | markdownify }}
+{% include_relative usage.md %}
 
-{% capture my_include %}{% include authentication.md %}{% endcapture %}
-{{ my_include | markdownify }}
+{% include_relative authentication.md %}
 
-{% capture my_include %}{% include private-images.md %}{% endcapture %}
-{{ my_include | markdownify }}
+{% include_relative private-images.md %}
 
-{% capture my_include %}{% include uploading.md %}{% endcapture %}
-{{ my_include | markdownify }}
+{% include_relative uploading.md %}
 
-{% capture my_include %}{% include other.md %}{% endcapture %}
-{{ my_include | markdownify }}
+{% include_relative other.md %}
 
 ---
 
