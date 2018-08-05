@@ -9,6 +9,10 @@ phpSmug is a PHP wrapper class for the [SmugMug API](https://api.smugmug.com/api
 
 Not already a SmugMug user? Here, have a $5 discount off your first year on me by [registering](https://secure.smugmug.com/signup.mg?Coupon=2ZxFXMC19qOxU) using this code: **[2ZxFXMC19qOxU](https://secure.smugmug.com/signup.mg?Coupon=2ZxFXMC19qOxU)**
 
+The development of phpSmug takes place in my free time. If you find phpSmug useful and found it has saved you a lot of time, I’d really appreciate it if you bought me a coffee or two.
+
+<a href="https://www.buymeacoffee.com/xeJB2cIXo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
 ---
 
 {% include_relative installation.md %}
