@@ -13,8 +13,6 @@ The development of phpSmug takes place in my free time. If you find phpSmug usef
 
 [![Buy me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lildude)
 
-<a href="https://www.buymeacoffee.com/xeJB2cIXo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" class="text-center"></a>
-
 ---
 
 {% include_relative installation.md %}
@@ -28,3 +26,7 @@ The development of phpSmug takes place in my free time. If you find phpSmug usef
 {% include_relative uploading.md %}
 
 {% include_relative other.md %}
+
+{% comment %}
+{% include_relative contributing.md %}
+{% endcomment %}
