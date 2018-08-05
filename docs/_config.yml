@@ -9,8 +9,8 @@ license:
   docs_url: http://creativecommons.org/licenses/by/3.0/
 ui:
   header:
-    color1: "#2a6496"
-    color2: "#669900"
+    color1: "#669900"
+    color2: "#365100"
     trianglify: true
 links:
   header:
