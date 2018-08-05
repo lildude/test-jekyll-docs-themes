@@ -1,5 +1,6 @@
 name: phpSmug
 description: A PHP wrapper class for the SmugMug API.
+disqus: false
 remote_theme: allejo/jekyll-docs-theme
 project:
   version: 4.0.0
