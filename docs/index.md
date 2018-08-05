@@ -1,7 +1,7 @@
 ---
 ---
 
-# phpSmug Documentation
+# phpSmug
 
 - [Requirements & Installation](installation.md)
 - [Usage](usage.md)
