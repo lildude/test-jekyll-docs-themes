@@ -1,3 +1,5 @@
+name: phpSmug
+description: A PHP wrapper class for the SmugMug API.
 remote_theme: allejo/jekyll-docs-theme
 project:
   version: 4.0.0
@@ -15,9 +17,9 @@ ui:
 links:
   header:
     - title: GitHub
-      url: https://github.com/allejo/jekyll-docs-theme
+      url: https://github.com/lildude/phpsmug
   footer:
     - title: GitHub
-      url: https://github.com/allejo/jekyll-docs-theme
+      url: https://github.com/lildude/phpsmug
     - title: Issues
-      url: https://github.com/allejo/jekyll-docs-theme/issues?state=open
+      url: https://github.com/lildude/phpsmug/issues?state=open
