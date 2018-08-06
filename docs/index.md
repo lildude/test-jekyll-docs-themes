@@ -11,7 +11,7 @@ Not already a SmugMug user? Here, have a $5 discount off your first year on me b
 
 The development of phpSmug takes place in my free time. If you find phpSmug useful and found it has saved you a lot of time, I’d really appreciate it if you bought me a coffee or two.
 
-[![Buy me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lildude){:mx-auto}
+[![Buy me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png){:mx-auto}](https://www.buymeacoffee.com/lildude)
 
 ---
 
