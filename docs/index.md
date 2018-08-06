@@ -17,15 +17,27 @@ The development of phpSmug takes place in my free time. If you find phpSmug usef
 
 {% include_relative installation.md %}
 
+---
+
 {% include_relative usage.md %}
+
+---
 
 {% include_relative authentication.md %}
 
+---
+
 {% include_relative private-images.md %}
+
+---
 
 {% include_relative uploading.md %}
 
+---
+
 {% include_relative other.md %}
+
+---
 
 {% comment %}
 {% include_relative contributing.md %}
