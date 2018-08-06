@@ -36,9 +36,3 @@ The development of phpSmug takes place in my free time. If you find phpSmug usef
 ---
 
 {% include_relative other.md %}
-
----
-
-{% comment %}
-{% include_relative contributing.md %}
-{% endcomment %}
